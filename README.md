@@ -28,3 +28,9 @@ of the link and add a hypertext link,
 To create a link like that, type it in this format:
 
 \[title](link)
+
+The format of the .md files should be:
+- Title (use "#")
+- Most important links, order of importance
+- subtitle ("Important Links", use "##"")
+- links, in alphabetical order of the titles that you give them
