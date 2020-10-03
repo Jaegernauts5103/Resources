@@ -6,3 +6,4 @@ If you have to put it on the Vex Cortex,
 
 ## Important Links
 - [How to download a sample program onto a Vex Cortex](http://cmra.rec.ri.cmu.edu/products/cortex_video_trainer/lesson/media_files/programs_over_usb.pdf)
+- [Official RobotC information page](http://robotc.net/NaturalLanguage/)
