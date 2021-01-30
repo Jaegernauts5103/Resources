@@ -1,3 +1,5 @@
 https://docs.wpilib.org/en/stable/docs/software/vision-processing/index.html
 https://docs.wpilib.org/en/stable/docs/software/vision-processing/grip/introduction-to-grip.html
 Code examples: https://github.com/WPIRoboticsProjects/GRIP-code-generation/blob/master/java/src/main/java/grip/sample1/FindRedAreas.java
+Extra Commands: https://docs.wpilib.org/en/stable/docs/software/vision-processing/grip/generating-code-from-grip.html
+Generated code examples: https://docs.wpilib.org/en/stable/docs/software/vision-processing/grip/using-generated-code-in-a-robot-program.html
